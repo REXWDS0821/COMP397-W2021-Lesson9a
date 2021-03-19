@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: mainSceneData
   m_EditorClassIdentifier: 
   playerPosition: {x: 4.0112953, y: 1.0800004, z: -10.875694}
-  playerHealth: 60
+  playerRotation: {x: 0, y: 0, z: 0, w: 0}
+  playerHealth: 80
